@@ -16,7 +16,7 @@ và đánh giá hiệu quả của các lớp bảo vệ thông qua các số li
 
 ## Architecture
 
-![alt text](Topology.png)
+![alt text](image/Topology.png)
 
 ---
 
